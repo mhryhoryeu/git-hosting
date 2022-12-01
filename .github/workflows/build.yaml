@@ -25,4 +25,4 @@ jobs:
       - name: Upload report
         uses: actions/upload-artifact@v2
         with:
-          path: files_report.log
+          name: files_report.log
