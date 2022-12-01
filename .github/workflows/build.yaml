@@ -23,6 +23,6 @@ jobs:
             echo "File $file have `grep '\t' Main.java | wc -l` tabs." > report.log 2>&1
           done
       - name: Upload report
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
-          name: files_report.log
+          path: files_report.log
