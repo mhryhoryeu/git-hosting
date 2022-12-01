@@ -1,2 +1,2 @@
-Git		 is a distributed version control system:	tracking changes in any set of files, 
-usually	used	for coordinating work among programmers		collaboratively developing	xsource code during software development.
+Git			 is a distributed	version	control system:	tracking changes in any set of files, 
+usually		used	for coordinating work among programmers		collaboratively developing	xsource code during software development.
